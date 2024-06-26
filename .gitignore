@@ -1,0 +1,4 @@
+#iginore these files
+
+.env
+/node_modules
